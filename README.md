@@ -27,6 +27,11 @@ create a new README.md file, ctrl + s
 . git add .
 . git commit -m 'message'
 
+# Regular Process
+. git add .
+. git commit -m 'message'
+. git push
+
 # Supplementary: others instruction of modify file
 . git reset --soft HEAD~ #回到上一步/canceling commit
 . git reset --hard [version.number]
